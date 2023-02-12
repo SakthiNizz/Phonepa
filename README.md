@@ -1,5 +1,7 @@
 # Phonepa
 
+![image](https://user-images.githubusercontent.com/107666598/218308092-94dcfc7c-5109-45ca-824c-9849f02584e3.png)
+
 # Problem Statement:
   The Phonepe pulse Github repository contains a large amount of data related to various metrics and statistics. The goal is to extract this data and process it to obtain insights and information that can be visualized in a user-friendly manner.
   
