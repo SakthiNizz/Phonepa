@@ -25,8 +25,11 @@ Import required python libraries
   4. plotly.express
   
  Command for run phonpe script:
-    Open command Prompt.
+ 
+    Open command Prompt. 
+    
     Go to such directories.
+    
     Run -> streamlit run overview.py
     
 # Outcomes:
